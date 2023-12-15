@@ -1,0 +1,1 @@
+export const moltiplication = (a: number, b: number): number => a * b;
